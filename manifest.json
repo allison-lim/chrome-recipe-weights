@@ -1,11 +1,11 @@
 {
 	"manifest_version": 2,
-	"name": "My First Chrome Extension",
-	"description": "This is the description for your first chrome extension",
+	"name": "Recipe Converter",
+	"description": "Easily convert traditional volume based recipes to use weights",
 	"version": "1.0",
 	"browser_action": {
  		"default_icon": "image.png",
  		"default_popup": "popup.html",
- 		"default_title": "My First Chrome Extension"
+ 		"default_title": "Recipe Converter"
  	}
 }
